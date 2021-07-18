@@ -1,5 +1,5 @@
 .nav-list{
-    padding-left: 72%;
+    padding-left: 65%;
 }
 
 .nav-logo{
@@ -12,6 +12,8 @@
 
 .sec-gap{
     padding-top: 70px;
+    background-image: url(bg-2.png);
+    background-size: cover;
 }
 
 .cat-head h1{
