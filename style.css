@@ -5,3 +5,41 @@
 .nav-logo{
     width: 120px;
 }
+
+.card{
+    border: none;
+}
+
+.sec-gap{
+    padding-top: 70px;
+}
+
+.cat-head h1{
+    color: black;
+    border-bottom: 5px solid rgb(238, 178, 28) ;
+}
+
+.cat-bag{
+    padding: 12%;
+    padding-top: 245px;
+    padding-left: 13%;
+   
+}
+.cat-ps{
+    padding-top: 100px;
+    padding-left: 12%;
+}
+
+.cat-basket{
+    width: 110%;
+    margin-top: 65px;
+}
+
+.img-1, .img-2, .img-3{
+    box-shadow: 3px 3px 10px;
+    padding: 10px;
+} 
+
+.img-3{
+    margin-top: 80px;
+}
