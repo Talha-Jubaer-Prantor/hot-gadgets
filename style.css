@@ -1,3 +1,4 @@
+/* Navigation bar */
 .nav-list{
     padding-left: 65%;
 }
@@ -5,7 +6,7 @@
 .nav-logo{
     width: 120px;
 }
-
+/* Card of catagories */
 .card{
     border: none;
 }
